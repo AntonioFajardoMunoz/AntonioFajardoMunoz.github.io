@@ -29,6 +29,7 @@ Tipo/Género:
 ### Personaje
 
 ![](https://github.com/AntonioFajardoMunoz/Dago/blob/main/Noa%20Williams.jpeg)
+
 Nombre: Noa Williams
 
 
