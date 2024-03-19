@@ -29,7 +29,7 @@ Tipo/Género:
 ### Personaje
 
 ![](img-nobody.png)
-
+![](
 Nombre: Noa Williams
 
 
