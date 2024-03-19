@@ -32,7 +32,6 @@ Tipo/Género:
 
 Nombre: Noa Williams
 
-![](https://github.com/AntonioFajardoMunoz/Dago/blob/main/Tripulaci%C3%B3n.png)
 
 ### Historia:
 Noa Williams se adentra en una misión espacial con sus compañeros de equipo, Misión Dago. Al llegar a este planeta toman la principal fuente de poder, el Zahurak, el cual proporciona a los dagorianos, los habitantes del planeta, sus poderes sobrehumanos. Unos días después de la misión Noa percibe que algo no va bien. Descubre que los reptilianos han conseguido llegar a la tierra con el objetivo de recuperar la piedra, iniciando así una guerra entre reptilianos y humanos. De forma paralela Noa descubre sus orígenes, ya que no es todo como ella piensa. 
