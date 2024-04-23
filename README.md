@@ -9,9 +9,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Antonio Fajardo
-- :woman: Luz María Guerra
-- :woman: Paula Escalona Doña
+- 🦝: Antonio Fajardo
+- 🌙: Luz María Guerra
+- 🐶: Paula Escalona Doña
 
 
 Proyecto (código): 
